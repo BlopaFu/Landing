@@ -263,7 +263,7 @@ p {
   color: #fff;
 }
 
-@media only screen and (max-width : 767px) {
+@media only screen and (width : 767px) {
 
   .video {
     padding-left: 0;
@@ -379,7 +379,7 @@ p {
 
 .footer_di-buffala {
   background-color: #325DFF;
-  padding: 5vw 1rem;
+  padding: 40 px;
   text-align: center;
 }
 
